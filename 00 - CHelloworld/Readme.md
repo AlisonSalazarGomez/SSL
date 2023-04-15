@@ -1,7 +1,7 @@
-## Equipo 6.
-## Nombre del equipo (opcional).
+## Equipo 6
+## Nombre del equipo:
 ## Autores de la resolución: Alison Yolanda Salazar Gomez
-## Usuario: Alison Yolanda Salazar Gomez , asalazargomez@frba.utn.edu.ar
+## Usuario: AlisonSalazarGomez , asalazargomez@frba.utn.edu.ar
 ## Legajo: 2040384
 ## Apellido: Salazar Gomez
 ## Nombre: Alison Yolanda
